@@ -1,22 +1,18 @@
 name: Waka Readme
 
 on:
+  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: '30 18 * * *'
-     
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
 jobs:
   update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
+    name: WakaReadme DevMetrics
+    runs-on: arch-latest
     steps:
-      - uses: marsevilspirit/waka-readme@master
+      - uses: marsevilspirit/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
                
