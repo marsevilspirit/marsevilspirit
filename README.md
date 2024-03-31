@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 30 March 2024
+From: 18 February 2024 - To: 31 March 2024
 
-Total Time: 190 hrs 47 mins
+Total Time: 192 hrs 1 min
 
-C++               101 hrs         █████████████▒░░░░░░░░░░░   52.95 %
-sh                52 hrs 13 mins  ███████░░░░░░░░░░░░░░░░░░   27.37 %
-C                 31 hrs 16 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-CMake             2 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Lua               58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+C++               101 hrs         █████████████░░░░░░░░░░░░   52.60 %
+sh                53 hrs 18 mins  ███████░░░░░░░░░░░░░░░░░░   27.76 %
+C                 31 hrs 16 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+CMake             2 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Lua               1 hr 6 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 Makefile          49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 SQL               37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 Text              28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
