@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 04 April 2024
+From: 18 February 2024 - To: 05 April 2024
 
-Total Time: 205 hrs 44 mins
+Total Time: 210 hrs 26 mins
 
-C++               105 hrs 31 mins ████████████▓░░░░░░░░░░░░   51.29 %
-sh                61 hrs 22 mins  ███████▒░░░░░░░░░░░░░░░░░   29.84 %
-C                 31 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-CMake             2 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Lua               1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Makefile          49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-SQL               37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+C++               107 hrs 35 mins ████████████▓░░░░░░░░░░░░   51.13 %
+sh                63 hrs 48 mins  ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+C                 31 hrs 44 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+CMake             2 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Lua               1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Makefile          49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+SQL               37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 Python            32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Text              30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Objective-C       20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Objective-C       20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
