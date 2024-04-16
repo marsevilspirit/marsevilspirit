@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 15 April 2024
+From: 18 February 2024 - To: 16 April 2024
 
-Total Time: 239 hrs 51 mins
+Total Time: 244 hrs 2 mins
 
-C++               118 hrs 14 mins ████████████▒░░░░░░░░░░░░   49.30 %
-sh                80 hrs 40 mins  ████████▒░░░░░░░░░░░░░░░░   33.64 %
-C                 32 hrs 2 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-CMake             2 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Python            1 hr 39 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+C++               120 hrs 28 mins ████████████▒░░░░░░░░░░░░   49.37 %
+sh                82 hrs 35 mins  ████████▒░░░░░░░░░░░░░░░░   33.84 %
+C                 32 hrs 2 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+CMake             2 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Python            1 hr 39 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Lua               1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 Text              52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Makefile          49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
