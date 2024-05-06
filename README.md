@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 05 May 2024
+From: 18 February 2024 - To: 06 May 2024
 
-Total Time: 299 hrs 55 mins
+Total Time: 300 hrs 23 mins
 
-C++               122 hrs 19 mins ██████████▒░░░░░░░░░░░░░░   40.78 %
-sh                106 hrs 46 mins █████████░░░░░░░░░░░░░░░░   35.60 %
-C                 32 hrs 5 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Go                27 hrs 50 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+C++               122 hrs 19 mins ██████████▒░░░░░░░░░░░░░░   40.72 %
+sh                106 hrs 53 mins █████████░░░░░░░░░░░░░░░░   35.58 %
+C                 32 hrs 5 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Go                28 hrs 11 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
 CMake             2 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 Python            2 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 Lua               1 hr 11 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
