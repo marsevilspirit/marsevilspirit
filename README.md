@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 16 May 2024
+From: 18 February 2024 - To: 17 May 2024
 
-Total Time: 310 hrs 42 mins
+Total Time: 313 hrs 48 mins
 
-C++               122 hrs 19 mins ██████████░░░░░░░░░░░░░░░   39.37 %
-sh                110 hrs 20 mins █████████░░░░░░░░░░░░░░░░   35.51 %
-Go                35 hrs 2 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-C                 32 hrs 5 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-CMake             2 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Python            2 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+C++               122 hrs 19 mins █████████▓░░░░░░░░░░░░░░░   38.98 %
+sh                110 hrs 44 mins ████████▓░░░░░░░░░░░░░░░░   35.29 %
+Go                37 hrs 44 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+C                 32 hrs 5 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+CMake             2 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Python            2 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 Lua               1 hr 11 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Text              1 hr 3 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Other             52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Makefile          49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Makefile          49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
