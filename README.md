@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 17 July 2024
+From: 18 February 2024 - To: 18 July 2024
 
-Total Time: 380 hrs 54 mins
+Total Time: 382 hrs 20 mins
 
-C++               122 hrs 19 mins ████████░░░░░░░░░░░░░░░░░   32.11 %
-sh                118 hrs 1 min   ███████▓░░░░░░░░░░░░░░░░░   30.99 %
-Go                87 hrs 17 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
-C                 32 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Python            8 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+C++               122 hrs 19 mins ████████░░░░░░░░░░░░░░░░░   31.99 %
+sh                118 hrs 1 min   ███████▓░░░░░░░░░░░░░░░░░   30.87 %
+Go                88 hrs 43 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+C                 32 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Python            8 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 CMake             2 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 Other             2 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 Lua               1 hr 35 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
