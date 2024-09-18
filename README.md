@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 17 September 2024
+From: 18 February 2024 - To: 18 September 2024
 
-Total Time: 664 hrs 38 mins
+Total Time: 668 hrs 32 mins
 
-C++               264 hrs 52 mins ██████████░░░░░░░░░░░░░░░   39.85 %
-sh                180 hrs 26 mins ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
-Go                135 hrs 8 mins  █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-C                 34 hrs 41 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Python            10 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Bash              7 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+C++               264 hrs 53 mins ██████████░░░░░░░░░░░░░░░   39.62 %
+sh                180 hrs 59 mins ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
+Go                135 hrs 8 mins  █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+C                 34 hrs 41 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Python            10 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Bash              7 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 CMake             4 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Lua               3 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Other             3 hrs 16 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-YAML              2 hrs 39 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+fish              3 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Lua               3 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other             3 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
