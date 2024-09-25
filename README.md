@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 24 September 2024
+From: 18 February 2024 - To: 25 September 2024
 
-Total Time: 698 hrs 3 mins
+Total Time: 705 hrs 47 mins
 
-C++                264 hrs 53 mins █████████▒░░░░░░░░░░░░░░░   37.95 %
-sh                 181 hrs 34 mins ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
-Go                 135 hrs 9 mins  █████░░░░░░░░░░░░░░░░░░░░   19.36 %
-C                  47 hrs 1 min    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Python             10 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Other              9 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Bash               7 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-fish               4 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-CMake              4 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Markdown           4 hrs 23 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+C++                264 hrs 53 mins █████████▒░░░░░░░░░░░░░░░   37.53 %
+sh                 181 hrs 41 mins ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
+Go                 135 hrs 10 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+C                  47 hrs 30 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Other              16 hrs 26 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Python             10 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Bash               7 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+fish               5 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+CMake              4 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Markdown           4 hrs 23 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
