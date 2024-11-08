@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 07 November 2024
+From: 18 February 2024 - To: 08 November 2024
 
-Total Time: 871 hrs 52 mins
+Total Time: 874 hrs 32 mins
 
-C++                        266 hrs 31 mins ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-Go                         183 hrs 58 mins █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-sh                         182 hrs 33 mins █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-Other                      107 hrs 14 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-C                          49 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+C++                        266 hrs 31 mins ███████▓░░░░░░░░░░░░░░░░░   30.48 %
+Go                         186 hrs 7 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+sh                         182 hrs 33 mins █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+Other                      107 hrs 45 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+C                          49 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
 Markdown                   11 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 Python                     10 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 Bash                       8 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
