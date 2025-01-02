@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 01 January 2025
+From: 18 February 2024 - To: 02 January 2025
 
-Total Time: 1,143 hrs 25 mins
+Total Time: 1,145 hrs 27 mins
 
-C++                        311 hrs 48 mins ██████▓░░░░░░░░░░░░░░░░░░   27.27 %
-Go                         267 hrs 23 mins ██████░░░░░░░░░░░░░░░░░░░   23.39 %
-Other                      213 hrs 32 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-sh                         182 hrs 59 mins ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-C                          50 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+C++                        311 hrs 48 mins ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
+Go                         268 hrs 55 mins ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+Other                      214 hrs 2 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+sh                         182 hrs 59 mins ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+C                          50 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 Markdown                   15 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Bash                       11 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-CMake                      10 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Bash                       11 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+CMake                      10 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 Python                     10 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 Rust                       8 hrs 22 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
