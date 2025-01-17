@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 16 January 2025
+From: 18 February 2024 - To: 17 January 2025
 
-Total Time: 1,157 hrs 59 mins
+Total Time: 1,158 hrs 39 mins
 
-C++                        312 hrs 1 min   ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
-Go                         272 hrs 53 mins ██████░░░░░░░░░░░░░░░░░░░   23.57 %
-Other                      221 hrs 26 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+C++                        312 hrs 1 min   ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
+Go                         272 hrs 53 mins ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+Other                      221 hrs 53 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
 sh                         183 hrs         ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-C                          50 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+C                          50 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 Markdown                   15 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 Bash                       11 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 CMake                      10 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
