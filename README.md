@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 09 February 2025
+From: 18 February 2024 - To: 10 February 2025
 
-Total Time: 1,188 hrs 5 mins
+Total Time: 1,188 hrs 23 mins
 
-C++                        315 hrs 20 mins ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
-Go                         280 hrs 57 mins ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-Other                      237 hrs 34 mins █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+C++                        315 hrs 22 mins ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
+Go                         281 hrs         ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+Other                      237 hrs 48 mins █████░░░░░░░░░░░░░░░░░░░░   20.01 %
 sh                         183 hrs         ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
 C                          50 hrs 7 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 Markdown                   15 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
