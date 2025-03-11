@@ -1,4 +1,6 @@
-### If you want to find me, contact me at marsevilspirit@gmail.com
+I specifically didn't change my profile picture, I really like this because it looks like a fox.
+
+If you want to find me, contact me at marsevilspirit@gmail.com
 
 <!--
 **marsevilspirit/marsevilspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--START_SECTION:waka-->
+
 
 ```txt
 From: 18 February 2024 - To: 10 March 2025
