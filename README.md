@@ -5,14 +5,14 @@ If you want to find me, contact me at marsevilspirit@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 30 April 2025
+From: 18 February 2024 - To: 01 May 2025
 
-Total Time: 1,578 hrs 14 mins
+Total Time: 1,580 hrs 32 mins
 
-Go                         459 hrs 8 mins  ███████▒░░░░░░░░░░░░░░░░░   29.09 %
-C++                        345 hrs 46 mins █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-Other                      289 hrs 26 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-sh                         183 hrs 39 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Go                         461 hrs 24 mins ███████▒░░░░░░░░░░░░░░░░░   29.19 %
+C++                        345 hrs 46 mins █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+Other                      289 hrs 26 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
+sh                         183 hrs 39 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
 Rust                       60 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 C                          53 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 Clojure                    40 hrs 38 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
