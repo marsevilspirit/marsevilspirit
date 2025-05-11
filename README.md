@@ -5,19 +5,19 @@ If you want to find me, contact me at marsevilspirit@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 10 May 2025
+From: 18 February 2024 - To: 11 May 2025
 
-Total Time: 1,623 hrs 30 mins
+Total Time: 1,627 hrs 1 min
 
-Go                         478 hrs 4 mins  ███████▒░░░░░░░░░░░░░░░░░   29.45 %
-C++                        346 hrs 15 mins █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-Other                      289 hrs 53 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
-sh                         183 hrs 39 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Rust                       60 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-C                          53 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Go                         479 hrs 34 mins ███████▒░░░░░░░░░░░░░░░░░   29.48 %
+C++                        346 hrs 15 mins █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+Other                      289 hrs 53 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+sh                         183 hrs 39 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+Rust                       60 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+C                          53 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 Clojure                    40 hrs 38 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Markdown                   22 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Bash                       15 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Markdown                   22 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Bash                       15 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 YAML                       13 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
