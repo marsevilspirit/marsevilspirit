@@ -5,11 +5,11 @@ If you want to find me, contact me at marsevilspirit@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 21 August 2025
+From: 18 February 2024 - To: 22 August 2025
 
-Total Time: 1,948 hrs 36 mins
+Total Time: 1,948 hrs 46 mins
 
-Go                         657 hrs 58 mins ████████▒░░░░░░░░░░░░░░░░   33.77 %
+Go                         658 hrs 7 mins  ████████▒░░░░░░░░░░░░░░░░   33.77 %
 C++                        355 hrs 48 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
 sh                         183 hrs 55 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
 Rust                       76 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
