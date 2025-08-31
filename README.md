@@ -5,7 +5,7 @@ If you want to find me, contact me at marsevilspirit@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 29 August 2025
+From: 18 February 2024 - To: 30 August 2025
 
 Total Time: 1,961 hrs 25 mins
 
