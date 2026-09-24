@@ -5,18 +5,18 @@ If you want to find me, contact me at marsevilspirit@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 22 September 2026
+From: 18 February 2024 - To: 23 September 2026
 
-Total Time: 3,821 hrs 5 mins
+Total Time: 3,842 hrs 48 mins
 
-Rust                       920 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 %
-Go                         696 hrs               ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-C++                        594 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-sh                         277 hrs 12 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Markdown                   236 hrs 22 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Swift                      72 hrs 32 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-C                          56 hrs 25 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Python                     46 hrs 24 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Rust                       925 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 %
+Go                         696 hrs               ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+C++                        594 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+sh                         277 hrs 12 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Markdown                   239 hrs 48 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Swift                      81 hrs 2 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+C                          56 hrs 26 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Python                     48 hrs 16 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 YAML                       44 hrs 2 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
