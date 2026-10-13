@@ -11,8 +11,17 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: waka-readme
+      cancel-in-progress: false
+    env:
+      WAKATIME_ACCESS_TOKEN: ${{ secrets.WAKATIME_ACCESS_TOKEN }}
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update with API key until OAuth is configured
+        if: env.WAKATIME_ACCESS_TOKEN == ''
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -21,3 +30,23 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
           IGNORED_LANGUAGES: Other
+
+      - name: Check out repository for OAuth update
+        if: env.WAKATIME_ACCESS_TOKEN != ''
+        uses: actions/checkout@v6
+
+      - name: Update with OAuth
+        if: env.WAKATIME_ACCESS_TOKEN != ''
+        run: python3 .github/scripts/update_waka_readme.py
+
+      - name: Commit updated statistics
+        if: env.WAKATIME_ACCESS_TOKEN != ''
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md
+          git commit -m "Updated waka-readme graph with new metrics"
+          git push
