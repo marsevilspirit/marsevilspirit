@@ -20,13 +20,15 @@ IDE activity uploads still use the existing API key.
    `WAKATIME_ACCESS_TOKEN`. Keep the client secret and refresh token in a
    secure store outside the repository and runner. Never paste credentials
    into code, commit messages, shell arguments, logs, or chat.
-4. After publishing the code and configuring the secret, manually run
+4. After merging this change into the default branch and configuring the secret, manually run
    **Waka Readme** once and inspect the resulting README change. Verify that
    the OAuth response supplies the date range, masked total and languages.
    The script fails without editing README if required fields are missing.
 
 The authorization, token exchange, secret configuration, publishing and
 Actions run are operator steps; preparing this change does not perform them.
+Both scheduled and manual runs update the default-branch README, matching
+the previous action, regardless of the branch or tag selected for dispatch.
 
 ## Expiration and renewal
 
